@@ -12,4 +12,5 @@ start to learn gulp
 **tasks** 目录存放任务  
 **config.js** 配置任务  
 **gulpfile.js** 是gulp 入口文件
-由于对 `config.less.all` 进行了监听，所以任何修改都会立刻执行 less 任务
+由于对 `config.less.all` 进行了监听，所以任何修改都会立刻执行 less 任务  
+修改 default ，使用buildwithclean 中的 tasks
