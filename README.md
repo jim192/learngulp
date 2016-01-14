@@ -1,3 +1,5 @@
+# learngulp
+start to learn gulp
 #运行：
 	$ gulp  
 	1. 首先运行 gulpfile.js，因为使用了 require-dir  
@@ -11,4 +13,3 @@
 **config.js** 配置任务  
 **gulpfile.js** 是gulp 入口文件
 由于对 `config.less.all` 进行了监听，所以任何修改都会立刻执行 less 任务
-
